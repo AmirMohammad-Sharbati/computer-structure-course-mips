@@ -1,2 +1,12 @@
-25
-+36
+psh
+6
+psh
+8
+psh
+-12
+psh
+28
+add
+pop
+sub
+pop

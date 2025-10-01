@@ -1,2 +1,13 @@
-47
---13
+psh
+50
+psh
+60
+psh
+30
+psh
+80
+add
+sub
+add
+pop
+ext
