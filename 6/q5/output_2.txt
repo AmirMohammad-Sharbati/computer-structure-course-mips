@@ -1,0 +1,1 @@
+YES, it is palindrome
