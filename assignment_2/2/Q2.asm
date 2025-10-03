@@ -1,5 +1,3 @@
-#402106112 - 402106394
-
 .macro READ_INT(%reg)
   li $v0, 5
   syscall

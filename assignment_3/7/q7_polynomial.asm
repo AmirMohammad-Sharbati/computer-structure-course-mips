@@ -1,10 +1,8 @@
-#402106112 - 402106394
 .data
 new_line:   .asciiz "\n"
 positive:   .asciiz "+"
 exponent:   .asciiz "^"
 variable:   .asciiz "x"
-
 
 
 .text

@@ -1,5 +1,3 @@
-#402106112 - 402106394
-
 .text
 .globl main
 # I should just check that a+b>c in all cases => a+b-c should be positive

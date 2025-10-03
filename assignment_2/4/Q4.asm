@@ -1,5 +1,3 @@
-#402106394 - 402106112
-
 .data
 input_number: .word -250
 shamt :      .word 4

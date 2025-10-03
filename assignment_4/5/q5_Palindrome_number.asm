@@ -1,5 +1,3 @@
-#402106112  -  402106394
-
 .data
 no:  .asciiz "NO, it is'nt palindrome"
 yes: .asciiz "YES, it is palindrome"

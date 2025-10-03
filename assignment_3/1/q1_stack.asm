@@ -1,4 +1,3 @@
-#402106112 - 402106394
 .data
 input:      .space 5       # 3 word + \n + null pointer
 psh_cmd:    .asciiz "psh"        

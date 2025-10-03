@@ -1,4 +1,3 @@
-#402106112 - 402106394
 .data
 newline: .asciiz "\n"
 prompt:  .asciiz "****sorted numbers****\n"

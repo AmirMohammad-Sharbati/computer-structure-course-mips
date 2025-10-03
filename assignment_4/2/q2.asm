@@ -1,5 +1,3 @@
-#402106112  -  402106394
-
 .data
 array: .space 100
 newLine: .asciiz "\n"

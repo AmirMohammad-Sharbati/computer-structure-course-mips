@@ -1,4 +1,3 @@
-#402106112 - 402106394
 .data
 result:    .asciiz "Roots are: \n"
 newline:   .asciiz "\n"

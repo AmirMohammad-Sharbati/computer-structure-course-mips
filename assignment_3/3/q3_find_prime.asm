@@ -1,7 +1,5 @@
-#402106112 - 402106394
 .text
 .globl main
-
 
 main:
      # get input

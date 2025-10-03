@@ -1,4 +1,3 @@
-#402106112 - 402106394
 .data
 yes: .asciiz "YES"
 no:  .asciiz "NO"

@@ -1,5 +1,3 @@
-#402106112 - 402106394
-
 .macro READ_CHAR(%reg)
   li $v0, 12  # 8 for reading character
   syscall
