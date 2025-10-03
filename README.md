@@ -33,8 +33,8 @@ This course introduces:
 - LICENSE  
 - README.md
 
-- Each `assignment_X` folder contains subfolders for each question (`1/`, `2/`, ...) and the assignment statement (`assignment.pdf`).  
-- Each question folder contains the `.asm` source file and optional input/output examples. 
+  Each `assignment_X` folder contains subfolders for each question (`1/`, `2/`, ...) and the assignment statement (`assignment.pdf`).  
+  Each question folder contains the `.asm` source file and optional input/output examples. 
 
 
 ## ⚙️ Requirements
@@ -56,25 +56,25 @@ MARS is a lightweight IDE and simulator for MIPS Assembly programming. Since it 
 git clone https://github.com/AmirMohammad-Sharbati/computer-structure-course-mips.git
 cd computer-structure-course-mips
 ```
-1. Start MARS:
+2. Start MARS:
     Run it by double-clicking the downloaded `Mars*.jar`, or run:
 ```bash
 java -jar /path/to/Mars4_5.jar
 ```
-1. Load a program:
-    Go to `File > Open`, then select the `.asm` file you want (e.g., assignment1/1/Q1.asm). 
-1. Assemble and run: 
-    Click Assemble (F3) to assemble the program. 
-    Click Run (F5) to execute it.
+3. Load a program:  
+    - Go to `File > Open`, then select the `.asm` file you want (e.g., assignment_1/1/Q1.asm). 
+4. Assemble and run:   
+    - Click Assemble (F3) to assemble the program.   
+    - Click Run (F5) to execute it.
 
 ## 📝 Notes
 - These programs are course exercises and may not cover every topic in the course.  
 - The main goal is practice and learning. If you are taking this course, use these codes for inspiration and learning, not direct copying. 
 - Example input/output files are included where relevant.
-- The implementations were developed in collaboration with my teammate, [Arya Kohbanany](https://github.com/aryakohbanany).   
+- The implementations were developed in collaboration with my teammate and good friend, [Arya Kohbanany](https://github.com/aryakohbanany).   
 
 ## 🔗 Related
-- Our final course project (Arduino/Wokwi) is published in a separate repository: [link to final project repo]
+- Our final course project (Arduino/Wokwi) is available in a separate repository: https://github.com/AmirMohammad-Sharbati/computer-structure-course-project.git
 
 
 
